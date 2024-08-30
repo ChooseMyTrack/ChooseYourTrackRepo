@@ -72,7 +72,7 @@ The core of the recommendation system is powered by a **machine learning model**
    - Answer the questions, and upon completion, the app will send your responses to the Flask server.
    - The server processes the data and returns a recommendation, which is then displayed in the app along with useful tips and resources.
 
-### 🧠 About the Model (continued)
+### 🧠 About the Model 
 
 - **Feature Importance**:
   - After training, the model's feature importance was analyzed to understand which questions had the most influence on the track recommendations. This helps in interpreting the model's decisions and ensuring transparency.

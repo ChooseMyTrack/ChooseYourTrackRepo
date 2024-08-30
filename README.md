@@ -1,6 +1,6 @@
-# 🎓 Track Selection Quiz App
+# 🎓 Track Selection App
 
-Welcome to the **Track Selection Quiz App**! This app is designed to help users discover the educational or career track that best suits their interests and skills by answering a series of tailored questions. Whether you're passionate about **Bioinformatics** 🧬, **Cybersecurity** 🛡️, or **Artificial Intelligence** 🤖, this app will guide you to your ideal path!
+Welcome to the **Track Selection App**! This app is designed to help users discover the educational or career track that best suits their interests and skills by answering a series of tailored questions. Whether you're passionate about **Bioinformatics** 🧬, **Cybersecurity** 🛡️, or **Artificial Intelligence** 🤖, this app will guide you to your ideal path!
 
 ## 📜 Overview
 
